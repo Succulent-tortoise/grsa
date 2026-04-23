@@ -1,0 +1,14 @@
+.env
+certs/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.parquet
+*.json
+logs/
+requirements_export.txt
+src/model_v2/live_selector_v*.py
+src/model_v2/live_selector_refactor.py
+src/model_v2/jsonl_loader_refactored.py
+src/model_v2/*.bak*
